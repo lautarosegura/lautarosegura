@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am an experienced Discord bot developer and server administrator with a passion for creating custom chatbot solutions that take Discord servers to the next level.
+Hi! I am a full-stack developer experienced in Discord bots creation and server administration with a passion for creating custom chatbot solutions that take Discord servers to the next level.
 Whether you're looking for a bot to moderate your server, provide custom commands and games, or any other functionality, I can work with you to create a custom solution tailored to your specific needs.
 
 
